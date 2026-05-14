@@ -246,7 +246,7 @@ function Hero() {
     }}>
       <div style={{
         position: 'absolute', inset: 0,
-        backgroundImage: 'url(https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1920&q=80)',
+        backgroundImage: 'url(https://images.unsplash.com/photo-1763665814965-b5c4b3547908?auto=format&fit=crop&w=1920&q=80)',
         backgroundSize: 'cover', backgroundPosition: 'center 40%',
       }} />
       <div style={{
@@ -402,7 +402,7 @@ function SavoirFaire() {
         <div ref={rImg} className="fu fu-d1" style={{ position: 'relative' }}>
           <div style={{ position: 'relative', width: '100%', paddingBottom: '118%', overflow: 'hidden' }}>
             <img
-              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=800&q=80"
+              src="https://images.unsplash.com/photo-1726589004565-bedfba94d3a2?auto=format&fit=crop&w=800&q=80"
               alt="Artisan couvreur au travail"
               style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }}
             />
@@ -625,32 +625,32 @@ const PRESTATIONS = [
   {
     title: 'Couverture tuile',
     desc: 'Pose, réfection et entretien de couvertures en tuile mécanique ou terre cuite, dans le respect des traditions constructives girondines.',
-    img: 'https://images.unsplash.com/photo-1590479773265-7464e5d48118?auto=format&fit=crop&w=700&q=80',
+    img: 'https://images.unsplash.com/photo-1528223871781-8f4c984f6164?auto=format&fit=crop&w=700&q=80',
   },
   {
     title: 'Ardoise naturelle',
     desc: "Maîtrise des techniques de pose à la française et à l'anglaise. Ardoises d'Angers ou galiciennes sélectionnées avec soin.",
-    img: 'https://images.unsplash.com/photo-1599619585752-c3edb42a414c?auto=format&fit=crop&w=700&q=80',
+    img: 'https://images.unsplash.com/photo-1603517431529-6ba96d7525bb?auto=format&fit=crop&w=700&q=80',
   },
   {
     title: 'Zinguerie',
     desc: 'Noues, faîtages, chéneaux et gouttières en zinc naturel ou prélaqué. Étanchéité parfaite, finitions soignées au millimètre.',
-    img: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=700&q=80',
+    img: 'https://images.unsplash.com/photo-1562774909-a67585efb8b4?auto=format&fit=crop&w=700&q=80',
   },
   {
     title: 'Isolation toiture',
     desc: "Isolation thermique par l'extérieur (ITE) ou par l'intérieur. Amélioration du DPE et réduction significative de la facture énergétique.",
-    img: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=700&q=80',
+    img: 'https://images.unsplash.com/photo-1711375211760-117f793d1f15?auto=format&fit=crop&w=700&q=80',
   },
   {
     title: 'Charpente',
     desc: 'Rénovation et remplacement de charpentes traditionnelles. Traitement préventif et curatif contre les insectes xylophages.',
-    img: 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=700&q=80',
+    img: 'https://images.unsplash.com/photo-1676802037786-3697d60497ae?auto=format&fit=crop&w=700&q=80',
   },
   {
     title: 'Urgences & réparations',
     desc: "Intervention rapide après tempête ou dégât des eaux. Bâchage, sécurisation et réparation dans les 24 à 48 heures.",
-    img: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=700&q=80',
+    img: 'https://images.unsplash.com/photo-1681049400158-0ff6249ac315?auto=format&fit=crop&w=700&q=80',
   },
 ]
 
@@ -894,7 +894,7 @@ function Qualite() {
         {/* Image */}
         <div ref={rImg} className="fu" style={{ position: 'relative' }}>
           <img
-            src="https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=800&q=80"
+            src="https://images.unsplash.com/photo-1536360501002-a56f5995e4c0?auto=format&fit=crop&w=800&q=80"
             alt="Toiture rénovée"
             style={{ width: '100%', height: 480, objectFit: 'cover', display: 'block' }}
           />
